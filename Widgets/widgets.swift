@@ -26,9 +26,5 @@ struct WidgetsBundle: WidgetBundle {
         DiskWidget()
         NetworkWidget()
         UnitedWidget()
-        
-        if #available(macOS 15.0, *) {
-            CPUControlWidget()
-        }
     }
 }

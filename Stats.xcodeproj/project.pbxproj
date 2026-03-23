@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		24967B352F70B802002EEF30 /* StatsControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24967B342F70B802002EEF30 /* StatsControl.swift */; };
 		5C038CF62D86EE8A00516809 /* Remote.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C038CF52D86EE8700516809 /* Remote.swift */; };
 		5C044F7A2B3DE6F3005F6951 /* portal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C044F792B3DE6F3005F6951 /* portal.swift */; };
 		5C0A2A8A292A5B4D009B4C1F /* SMJobBlessUtil.py in Resources */ = {isa = PBXBuildFile; fileRef = 5C0A2A89292A5B4D009B4C1F /* SMJobBlessUtil.py */; };
@@ -491,7 +490,6 @@
 /* Begin PBXFileReference section */
 		0192A7ED2B017E190056F918 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/Localizable.strings; sourceTree = "<group>"; };
 		13BE56042D0E6963001C58EC /* en-AU */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-AU"; path = "en-AU.lproj/Localizable.strings"; sourceTree = "<group>"; };
-		24967B342F70B802002EEF30 /* StatsControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsControl.swift; sourceTree = "<group>"; };
 		2658929724FC0F3B00FB3B6A /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		29AA17CA2926879000709C01 /* fa */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fa; path = fa.lproj/Localizable.strings; sourceTree = "<group>"; };
 		30370F8F253DCBC0006404D8 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
@@ -926,7 +924,6 @@
 		5CE7E78F2C318512006BC92C /* Widgets */ = {
 			isa = PBXGroup;
 			children = (
-				24967B342F70B802002EEF30 /* StatsControl.swift */,
 				5C3068752C3351D800B05EFA /* Supporting Files */,
 				5CE7E7A32C318C33006BC92C /* widgets.swift */,
 				5EC1B2E42E2FEAFB007042A6 /* UnitedWidget.swift */,
@@ -2038,7 +2035,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				5EC1B2E52E2FEAFB007042A6 /* UnitedWidget.swift in Sources */,
-				24967B352F70B802002EEF30 /* StatsControl.swift in Sources */,
 				5CE7E7A42C318C33006BC92C /* widgets.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
